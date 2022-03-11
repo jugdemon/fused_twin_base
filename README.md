@@ -1,5 +1,7 @@
 # Fused Twin Base
 
+[![DOI](https://zenodo.org/badge/465486555.svg)](https://zenodo.org/badge/latestdoi/465486555)
+
 Authored by Jascha Grübel and Michal Gath-Morad.
 
 This unity project contains a derivative of a BIM model that was exported to fbx. Furthermore, sensor locations of 390 sensors and 4 gateways have been made available as spheres at the actual location of the sensors in the physical building [[1]](https://ieeexplore.ieee.org/abstract/document/9439137/).
