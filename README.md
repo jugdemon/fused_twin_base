@@ -14,8 +14,10 @@ The sensor IDs in the project map to to device IDs in the transmission meta data
 
 [1. Grübel, J., Thrash, T., Hélal, D., Sumner, R. W., Hölscher, C., & Schinazi, V. R. (2021, March). The feasibility of dense indoor lorawan towards passively sensing human presence. In 2021 IEEE International Conference on Pervasive Computing and Communications (PerCom) (pp. 1-11). IEEE.](https://ieeexplore.ieee.org/abstract/document/9439137/)
 
-[2. Grübel, J., Gath-Morad, M., Aguilar, L., Thrash, T., Sumner, R. W., Hölscher, C., & Schinazi, V. (2021). Fused Twins: A Cognitive Approach to Augmented Reality Media Architecture. In Media Architecture Biennale 20 (pp. 215-220).](https://dl.acm.org/doi/abs/10.1145/3469410.3469435)
+[2. Grübel, J., Thrash, T., Aguilar, L., Gath-Morad, M., Hélal, D., Sumner, R. W., Hölscher, C., & Schinazi, V. R. (2022). Dense Indoor Sensor Networks: Towards passively sensing human presence with LORAWAN. Pervasive and Mobile Computing, 84, 101640.](https://www.sciencedirect.com/science/article/pii/S1574119222000700)
 
-[3. Grübel, J. (2022). The Hitchhiker's Guide to Fused Twins--A Conceptualization to Access Digital Twins in situ in Smart Cities. arXiv preprint arXiv:2202.07104.](https://arxiv.org/abs/2202.07104)
+[3. Grübel, J., Gath-Morad, M., Aguilar, L., Thrash, T., Sumner, R. W., Hölscher, C., & Schinazi, V. (2021). Fused Twins: A Cognitive Approach to Augmented Reality Media Architecture. In Media Architecture Biennale 20 (pp. 215-220).](https://dl.acm.org/doi/abs/10.1145/3469410.3469435)
 
-[4. Grübel, J., Thrash, T., Hélal, D., Sumner, R., Hölscher, C., & Schinazi, V. (2021). LoRaWAN Dense Indoor Sensor Network (DISN) Transmission Meta Data.](https://zenodo.org/record/4476317)
+[4. Grübel, J., Thrash, T., Aguilar, L., Gath-Morad, M., Chatain, J., Sumner, R. W., Hölscher, C., & Schinazi, V. R. (2022). The Hitchhiker’s Guide to Fused Twins: A Review of Access to Digital Twins In Situ in Smart Cities. Remote Sensing, 14(13), 3095.](https://www.mdpi.com/2072-4292/14/13/3095)
+
+[5. Grübel, J., Thrash, T., Hélal, D., Sumner, R., Hölscher, C., & Schinazi, V. (2021). LoRaWAN Dense Indoor Sensor Network (DISN) Transmission Meta Data.](https://zenodo.org/record/4476317)
